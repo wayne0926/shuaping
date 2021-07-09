@@ -1,9 +1,9 @@
 import os
 import time
-import pyautogui
 import sys
-import win32gui
 import requests
+import win32gui
+import pyautogui
 # # 窗口名
 # hld = win32gui.FindWindow(None, u"XXXXXXXXXXXXX")
 # win32gui.SetForegroundWindow(hld)
